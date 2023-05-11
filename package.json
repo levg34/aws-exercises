@@ -23,5 +23,9 @@
     "ts-node": "^10.9.1",
     "tslib": "^2.5.0",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.329.0",
+    "@aws-sdk/client-s3": "^3.331.0"
   }
 }
