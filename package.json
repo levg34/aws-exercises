@@ -1,0 +1,27 @@
+{
+  "name": "aws-exercises",
+  "version": "1.0.0",
+  "description": "Tests for AWS SDK 3 in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levg34/aws-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levg34/aws-exercises/issues"
+  },
+  "homepage": "https://github.com/levg34/aws-exercises#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.2",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "typescript": "^5.0.4"
+  }
+}
